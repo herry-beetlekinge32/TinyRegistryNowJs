@@ -1,0 +1,2 @@
+# TinyRegistryNowJs
+Python script
